@@ -17,7 +17,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|1473200|1435100|e7dcfe99-c6ee-4680-a0fe-5fec1c3d9e62|82fb300a-d995-44b1-b557-e3c9b99369cb|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -217,7 +219,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
