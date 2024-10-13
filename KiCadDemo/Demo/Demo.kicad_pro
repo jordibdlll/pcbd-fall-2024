@@ -315,6 +315,26 @@
     [
       "ce233acd-8164-4293-81a2-4c34170cc702",
       "supply"
+    ],
+    [
+      "ab985d97-c5b8-4c7d-a2ff-75b912ddabf5",
+      "mcu"
+    ],
+    [
+      "26e2b74b-8cc0-44db-8b49-65d14206bfa3",
+      "onewire"
+    ],
+    [
+      "d54195cd-41d9-4ebf-990d-d91cd4f04404",
+      "usb-debug"
+    ],
+    [
+      "1e900fde-8eed-4bf4-8804-3253a49bf91b",
+      "comm"
+    ],
+    [
+      "58002030-c39a-404f-ad82-9889eb91573b",
+      "outputs"
     ]
   ],
   "text_variables": {}
