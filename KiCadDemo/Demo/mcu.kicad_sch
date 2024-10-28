@@ -1672,7 +1672,7 @@
     (property "Value" "Reset" (at 78.74 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 72.39 0)
+    (property "Footprint" "Demo:B3F-4000" (at 72.39 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 72.39 0)

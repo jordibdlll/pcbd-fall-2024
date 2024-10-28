@@ -585,7 +585,7 @@
     (property "Value" "Debug" (at 185.42 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 182.88 85.09 0)
+    (property "Footprint" "Demo:Debug" (at 182.88 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 85.09 0)

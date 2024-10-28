@@ -951,7 +951,7 @@
     (property "Value" "Comm" (at 210.82 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 208.28 86.36 0)
+    (property "Footprint" "Demo:IO3" (at 208.28 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 208.28 86.36 0)

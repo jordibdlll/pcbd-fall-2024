@@ -772,7 +772,7 @@
     (property "Value" "22-05-7025" (at 110.49 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 110.49 93.98 0)
+    (property "Footprint" "Demo:IO2" (at 110.49 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 93.98 0)
