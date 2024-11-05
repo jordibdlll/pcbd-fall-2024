@@ -13,8 +13,8 @@ Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;DNP;Manufacturer;Name;Si
 4;2;D1, D2;BAT60J;Device:D_Filled;Diode_SMD:D_SOD-323;~;;ST;BAT60J;D;;;;1=K 2=A
 5;1;F1;250 mA;Device:Polyfuse;Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;~;;TE;RXEF025;;;;;
 6;1;J1;Power;Connector_Generic:Conn_01x02;Demo:Power;~;;IMO;20.101M/2;;;;;
-7;4;J2, J3, J4, J5;22/5/7025;Connector_Generic:Conn_01x02;Demo:IO2;~;;Molex;22/5/7025;;;;;
-8;1;J6;Comm;Connector_Generic:Conn_01x03;Demo:IO3;~;;Molex;22/5/7025;;;;;
+7;4;J2, J3, J4, J5;22/05/7025;Connector_Generic:Conn_01x02;Demo:IO2;~;;Molex;22/05/7025;;;;;
+8;1;J6;Comm;Connector_Generic:Conn_01x03;Demo:IO3;~;;Molex;22/05/7025;;;;;
 9;1;J7;USB_B_Mini;Connector:USB_B_Mini;Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal;~;;Molex;67503-1020;;;;;
 10;1;J8;Debug;Connector_Generic:Conn_01x06;Demo:Debug;~;;Amphenol;T821106A1S100CEU;;;;;
 11;1;L1;5.6 uH;Device:L;Demo:tck141;~;;Traco;tck141;;;;;
