@@ -80,7 +80,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "Place/")
     )
   )
 
@@ -4487,8 +4487,8 @@
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp baae036d-db89-43ee-883b-a8f5edb89c31))
   (gr_line (start 100 130) (end 200 130)
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp e473a327-e78d-4e7e-a5a5-d43b71340959))
-  (gr_text "Joaquim Soler\nJordi Batlle\nPCBD V1\n" (at 157 61) (layer "F.Cu") (tstamp 7e8df7e5-e776-4cd1-a101-984e37b597e1)
-    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
+  (gr_text "Jordi Batlle\nJoaquim Soler\nPCB Board Demo v1.0" (at 154.41 58.54) (layer "F.SilkS") (tstamp 50167534-446b-4647-affd-ae3fc4321315)
+    (effects (font (size 1.5 1.5) (thickness 0.2)) (justify left bottom))
   )
 
   (segment (start 127.04875 81.79875) (end 129.75 84.5) (width 0.508) (layer "F.Cu") (net 1) (tstamp 1b57be2c-a4f3-4a29-a574-52e6acfcd10c))
